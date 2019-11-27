@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCitaviProjectToRecentList", "AddCitaviProjectToRecentList\AddCitaviProjectToRecentList.csproj", "{AB58CACE-CF77-4043-AF7E-0809C49CC87C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCitaviProjectToRecentListAddon", "AddCitaviProjectToRecentListAddon\AddCitaviProjectToRecentList.csproj", "{AB58CACE-CF77-4043-AF7E-0809C49CC87C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
