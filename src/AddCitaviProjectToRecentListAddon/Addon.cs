@@ -5,7 +5,7 @@ using SwissAcademic.Citavi.Shell;
 
 namespace AddCitaviProjectToRecentList
 {
-    public class AddCitaviProjectToRecentListAddon : CitaviAddOn<MainForm>
+    public class Addon : CitaviAddOn<MainForm>
     {
         #region Methods
 

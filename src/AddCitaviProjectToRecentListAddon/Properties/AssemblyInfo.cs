@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AddToRecentList")]
+[assembly: AssemblyTitle("AddCitaviProjectToRecentList")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AddToRecentListAddon")]
+[assembly: AssemblyProduct("AddCitaviProjectToRecentListAddon")]
 [assembly: AssemblyCopyright("Copyright ©  2018 Daniel Lutz")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
