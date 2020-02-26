@@ -4,7 +4,7 @@ This add-on adds the current project to the list of recently used files at the a
 
 ## Releases
 
-The compiled library can be found under releases as an [archive](./../../releases).
+The compiled library can be found under [releases](./../../releases) as an archive.
 
 ## Disclaimer
 
