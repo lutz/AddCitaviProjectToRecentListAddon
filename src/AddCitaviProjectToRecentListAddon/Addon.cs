@@ -23,8 +23,6 @@ namespace AddCitaviProjectToRecentList
                     MessageBox.Show(mainForm, e.ToString(), Resources.Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-
-            base.OnHostingFormLoaded(mainForm);
         }
     }
 }
